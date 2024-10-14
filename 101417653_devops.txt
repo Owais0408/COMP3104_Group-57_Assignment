@@ -1,0 +1,3 @@
+COMP 3104 DevOps - Overview
+COMP 3104 is a course focused on teaching DevOps principles, continuous integration, and deployment.
+The course covers topics like Git, Docker, CI/CD pipelines, and cloud platforms like AWS.
