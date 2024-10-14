@@ -1,2 +1,3 @@
 Overview of the COMP 3104 DevOps course.
 This course covers key topics in DevOps.
+Continuous integration is crucial in DevOps.
