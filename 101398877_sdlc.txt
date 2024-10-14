@@ -1,3 +1,4 @@
 Importance of DevOps in SDLC.
 DevOps enhances collaboration between teams.
 DevOps speeds up delivery and enhances quality.
+Implementing DevOps practices requires cultural changes.
